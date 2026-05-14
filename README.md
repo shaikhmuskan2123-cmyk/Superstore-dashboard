@@ -45,5 +45,6 @@ Contains:
 
 7.Screenshots / Demos
 Shows how the dashboard looks like :
-<img width="1920" height="1020" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/5261089f-26a2-433e-b6be-78bf3a239f75" />
+<img width="1358" height="749" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/84c718f4-ce88-40dd-adf8-6180cb9db893" />
+
  
