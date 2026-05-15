@@ -38,7 +38,7 @@ Contains:
 • Clean and Modern UI Design
 
 6.Key Insights
- • Technology category generated the highest sales.  
+   • Technology category generated the highest sales.  
 • West region showed strong overall performance.  
 • Consumer segment contributed major sales share.  
 • Certain sub-categories performed significantly better than others.
