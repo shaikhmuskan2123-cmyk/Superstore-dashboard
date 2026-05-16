@@ -1,5 +1,5 @@
 # Superstore-dashboard
-Recommended Structure and Order
+Recommended Structure and Order 
 1. Project Title 
  Superstore Sales Analytics Power BI Dashboard
 
@@ -47,4 +47,5 @@ Contains:
  Shows how the dashboard looks like :
 <img width="1358" height="749" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/84c718f4-ce88-40dd-adf8-6180cb9db893" />
 
- 
+8.Dataset link :
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
